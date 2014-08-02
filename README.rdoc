@@ -1,3 +1,7 @@
 = MailForm
 
+Gem developed as part of the examples of the book Rails4 Craftmanship
+
+Many features will be added soon. =)
+
 This project rocks and uses MIT-LICENSE.
